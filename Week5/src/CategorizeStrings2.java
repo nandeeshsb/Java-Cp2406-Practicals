@@ -45,7 +45,7 @@ public class CategorizeStrings2
             }
         if(oneWordSub + twoWordsSub + threeWordsSub < MAX)
         {
-           System.out.print("Enter a string or " +
+           System.out.print("Enter the string or " +
                QUIT + " to quit >> ");
            entry = input.nextLine();
         }
