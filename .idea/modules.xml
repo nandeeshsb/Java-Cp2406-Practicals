@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-Cp2406-Practicals.iml" filepath="$PROJECT_DIR$/Java-Cp2406-Practicals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pract7/Pract7.iml" filepath="$PROJECT_DIR$/Pract7/Pract7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/Week3.iml" filepath="$PROJECT_DIR$/Week3/Week3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week4/Week4.iml" filepath="$PROJECT_DIR$/Week4/Week4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week5/Week5.iml" filepath="$PROJECT_DIR$/Week5/Week5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/Week6.iml" filepath="$PROJECT_DIR$/Week6/Week6.iml" />
     </modules>
   </component>
 </project>
