@@ -23,7 +23,7 @@ public class FixDebugThirteen4
          BufferedReader reader = new BufferedReader(new InputStreamReader(input));
          System.out.println();        
 
-         System.out.print("Enter maximum price to search for >> ");
+         System.out.print("Enter maximum price to a search for >> ");
          searchPrice = keyBoard.nextDouble();
          System.out.println("\nEntrees no more than $" + searchPrice + "\n");
          string = reader.readLine();
